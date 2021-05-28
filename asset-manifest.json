@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/ratzshop/static/js/main.ade4bda1.chunk.js",
+    "main.js.map": "/ratzshop/static/js/main.ade4bda1.chunk.js.map",
+    "runtime-main.js": "/ratzshop/static/js/runtime-main.78cf6687.js",
+    "runtime-main.js.map": "/ratzshop/static/js/runtime-main.78cf6687.js.map",
+    "static/js/2.86507c88.chunk.js": "/ratzshop/static/js/2.86507c88.chunk.js",
+    "static/js/2.86507c88.chunk.js.map": "/ratzshop/static/js/2.86507c88.chunk.js.map",
+    "index.html": "/ratzshop/index.html",
+    "static/js/2.86507c88.chunk.js.LICENSE.txt": "/ratzshop/static/js/2.86507c88.chunk.js.LICENSE.txt",
+    "static/media/commerce.a0b73d8e.png": "/ratzshop/static/media/commerce.a0b73d8e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78cf6687.js",
+    "static/js/2.86507c88.chunk.js",
+    "static/js/main.ade4bda1.chunk.js"
+  ]
+}
